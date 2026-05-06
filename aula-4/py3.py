@@ -14,3 +14,4 @@ for i in range(17):
     if tamanho != capacidade_anterior:
         print(f"{i+1:>10} | {tamanho:>8}")
         capacidade_anterior = tamanho
+        
